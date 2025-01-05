@@ -16,6 +16,7 @@ export interface Property {
     name: string;
     description: string;
     price: number;
+    size: number;
     latitute: string;
     longitude: string;
     image: string;
